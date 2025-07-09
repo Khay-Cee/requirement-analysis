@@ -19,3 +19,37 @@ With well-documented and validated requirements, teams can avoid unplanned chang
 
 ### 3. Improves Communication Among Stakeholders
 It acts as a bridge between business stakeholders and technical teams. Proper analysis ensures that user needs are accurately captured and translated into technical specifications, leading to better collaboration and fewer misunderstandings.
+
+
+## Key Activities in Requirement Analysis.
+Requirement Analysis involves several critical activities that help transform stakeholder needs into clear, actionable software requirements. Below are the five key activities:
+
+### Requirement Gathering
+
+Collects initial information from stakeholders about their needs and expectations.
+
+Involves techniques such as interviews, questionnaires, workshops, and observations.
+
+### Requirement Elicitation
+
+Refines and expands on the gathered information.
+
+Focuses on drawing out hidden or unspoken requirements through brainstorming, prototyping, and use case development.
+
+### Requirement Documentation
+
+Converts requirements into structured formats such as Software Requirement Specifications (SRS), user stories, and use cases.
+
+Ensures all requirements are recorded clearly and consistently for future reference.
+
+### Requirement Analysis and Modeling
+
+Analyzes the documented requirements to detect inconsistencies, ambiguities, or redundancies.
+
+Often includes visual models like use case diagrams, data flow diagrams, or entity-relationship diagrams to enhance understanding.
+
+### Requirement Validation
+
+Reviews requirements with stakeholders to ensure they are complete, feasible, and aligned with business goals.
+
+Helps detect errors early, reducing the risk of costly changes later in development.
