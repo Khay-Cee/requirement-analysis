@@ -71,9 +71,11 @@ The system sends email notifications when a booking is confirmed or canceled.
 📈 Non-functional Requirements
 Non-functional requirements describe how the system should perform. These include performance, security, usability, reliability, and other quality attributes.
 
-Examples for a Booking Management System:
-The system should load search results within 2 seconds.
-The platform must be available 99.9% of the time (high availability).
-All user data must be encrypted and stored securely.
-The interface should be responsive and accessible on mobile and desktop devices.
-The system must support up to 10,000 concurrent users without performance degradation.
+## Use Case Diagrams
+Use Case Diagrams are a type of behavioral diagram in UML (Unified Modeling Language) used to represent the functional requirements of a system. They illustrate how users (actors) interact with different parts of the system (use cases) and help to visualize the system’s scope and functionality from the end-user perspective.
+
+✅ Benefits of Use Case Diagrams:
+Provides a high-level overview of system functionality.
+Help stakeholders understand system interactions without technical detail.
+Support communication between developers, designers, and clients.
+Serve as a foundation for writing detailed requirements and test cases.
