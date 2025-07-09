@@ -11,45 +11,69 @@ Whether you're a student, developer, business analyst, or project manager, this 
 ## Why is Requirement Analysis Important?
 Requirement Analysis is a crucial phase in the Software Development Life Cycle (SDLC) because it lays the foundation for a successful project. Here are three key reasons why it’s essential:
 
-### 1. Defines Clear Project Scope
+1. Defines Clear Project Scope
 Requirement analysis helps establish what the software should and should not do. By clearly outlining functional and non-functional requirements, it reduces ambiguity and ensures all stakeholders have a shared understanding of the project's goals.
 
-### 2. Prevents Scope Creep
+2. Prevents Scope Creep
 With well-documented and validated requirements, teams can avoid unplanned changes and additions during development. This minimizes delays, reduces costs, and keeps the project aligned with its original objectives.
 
-### 3. Improves Communication Among Stakeholders
+3. Improves Communication Among Stakeholders
 It acts as a bridge between business stakeholders and technical teams. Proper analysis ensures that user needs are accurately captured and translated into technical specifications, leading to better collaboration and fewer misunderstandings.
 
 
 ## Key Activities in Requirement Analysis.
 Requirement Analysis involves several critical activities that help transform stakeholder needs into clear, actionable software requirements. Below are the five key activities:
 
-### Requirement Gathering
+1. Requirement Gathering
 
 Collects initial information from stakeholders about their needs and expectations.
 
 Involves techniques such as interviews, questionnaires, workshops, and observations.
 
-### Requirement Elicitation
+2. Requirement Elicitation
 
 Refines and expands on the gathered information.
 
 Focuses on drawing out hidden or unspoken requirements through brainstorming, prototyping, and use case development.
 
-### Requirement Documentation
+3. Requirement Documentation
 
 Converts requirements into structured formats such as Software Requirement Specifications (SRS), user stories, and use cases.
 
 Ensures all requirements are recorded clearly and consistently for future reference.
 
-### Requirement Analysis and Modeling
+4. Requirement Analysis and Modeling
 
 Analyzes the documented requirements to detect inconsistencies, ambiguities, or redundancies.
 
 Often includes visual models like use case diagrams, data flow diagrams, or entity-relationship diagrams to enhance understanding.
 
-### Requirement Validation
+5. Requirement Validation
 
 Reviews requirements with stakeholders to ensure they are complete, feasible, and aligned with business goals.
 
 Helps detect errors early, reducing the risk of costly changes later in development.
+
+
+## Types of Requirements
+In software development, requirements are broadly categorized into two types: Functional and Non-functional. Understanding the difference between them is essential for designing a system that not only works correctly but also performs efficiently.
+
+🔧 Functional Requirements
+Functional requirements describe what the system should do. These are the specific behaviors, features, and functions that the software must support.
+
+Examples for a Booking Management System:
+Users can search for available properties based on location, dates, and price range.
+The system allows users to create, update, and cancel bookings.
+Registered users can log in securely using their email and password.
+Admins can add, edit, or remove listings from the system.
+The system sends email notifications when a booking is confirmed or canceled.
+
+📈 Non-functional Requirements
+Non-functional requirements describe how the system should perform. These include performance, security, usability, reliability, and other quality attributes.
+
+Examples for a Booking Management System:
+The system should load search results within 2 seconds.
+The platform must be available 99.9% of the time (high availability).
+All user data must be encrypted and stored securely.
+The interface should be responsive and accessible on mobile and desktop devices.
+The system must support up to 10,000 concurrent users without performance degradation.
