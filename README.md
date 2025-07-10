@@ -79,3 +79,4 @@ Provides a high-level overview of system functionality.
 Help stakeholders understand system interactions without technical detail.
 Support communication between developers, designers, and clients.
 Serve as a foundation for writing detailed requirements and test cases.
+<img width="676" height="537" alt="image" src="https://github.com/user-attachments/assets/392a1621-a934-4dfe-8a7e-f6e4ce2c629c" />
