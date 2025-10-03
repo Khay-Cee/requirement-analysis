@@ -8,6 +8,12 @@ This repository is designed to provide a comprehensive overview of the requireme
 
 Whether you're a student, developer, business analyst, or project manager, this resource aims to help you understand how effective requirement analysis contributes to project success by minimizing scope creep, enhancing communication, and ensuring clear, actionable software requirements.
 
+## What is Requirement Analysis?
+
+Requirement Analysis is the process of identifying, documenting, and managing the needs and expectations of stakeholders for a software system. 
+It ensures that the development team has a clear understanding of what the system should do (functional requirements) and how it should perform (non-functional requirements). 
+This phase is critical because it sets the foundation for successful system design, development, and deployment.
+
 ## Why is Requirement Analysis Important?
 Requirement Analysis is a crucial phase in the Software Development Life Cycle (SDLC) because it lays the foundation for a successful project. Here are three key reasons why it’s essential:
 
